@@ -1,8 +1,8 @@
-streamlit==1.21.0
-scikit-learn==1.0.2
-numpy==1.23.5
-PyPDF2==1.26.0
-python-docx==0.8.11
-pandas==1.5.3
+streamlit
+scikit-learn
+numpy
+PyPDF2
+python-docx
+pandas
 
 
