@@ -1,3 +1,4 @@
+exceptions
 streamlit
 numpy
 scikit-learn
